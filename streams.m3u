@@ -1,0 +1,165 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uYlre3b.png" group-title="College Football", #11 SMU at #6 Penn State (CFP, First Round) - 04:00 AM (22/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.anonup.net/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n71Yv79.png" group-title="College Football", #12 Clemson at #5 Texas (CFP, First Round) - 08:00 AM (22/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.anonup.net/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tmWfyw0.png" group-title="College Football", #9 Tennessee at #8 Ohio State (CFP, First Round) - 12:00 PM (22/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.anonup.net/abc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/54WD2Bj.png" group-title="Combat Sports", Reignited: Oleksandr Usyk vs Tyson Fury 2 - 03:00 AM (22/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://director.shoeshopping.top/v1/director/VE1cWJsa3F6azh3dWRidHg5ZXBmejAyeWp6/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r1nsrph.jpeg" group-title="VIP", [VIP] Sky Sports Darts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/live/world-darts-championship-2024-25?vip=true
+https://vip.fscdn.fun/skysportsf1/mpegts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r1nsrph.jpeg" group-title="Darts", Sky Sports Darts - 06:00 AM (16/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.fscdn.fun/skysportsf1hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJnxGU0.jpeg" group-title="VIP", [VIP] EPL: Crystal Palace vs Arsenal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/live/epl/mw17/crystal-palace/arsenal?vip=true
+https://vip.fscdn.fun/skysportspremierleague/mpegts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJnxGU0.jpeg" group-title="Football", EPL: Crystal Palace vs Arsenal - 04:30 AM (22/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://dc.vipstreams.in/skysportspremierleaguehd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t6TrujO.jpeg" group-title="Motorsports", Formula E: Mexico City ePrix (Practice 1) - 10:00 AM (11/01/25)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.anonup.net/formula-e/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYg6orO.jpeg" group-title="NFL", Houston Texans at Kansas City Chiefs - 05:00 AM (22/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.anonup.net/nbc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kOv14jy.jpeg" group-title="NFL", Pittsburgh Steelers at Baltimore Ravens - 08:30 AM (22/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.anonup.net/fox/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B4K0HNH.png" group-title="NFL", NFL RedZone - 05:00 AM (23/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.fscdn.fun/redzone/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Nkd4h4.jpeg" group-title="NFL", New York Giants at Atlanta Falcons - 05:00 AM (23/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.anonup.net/nfl1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ln8lUDI.jpeg" group-title="NFL", Detroit Lions at Chicago Bears - 05:00 AM (23/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.anonup.net/nfl2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5rq9p1T.jpeg" group-title="NFL", Cleveland Browns at Cincinnati Bengals - 05:00 AM (23/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.anonup.net/nfl3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ILgNHn8.jpeg" group-title="NFL", Tennessee Titans at Indianapolis Colts - 05:00 AM (23/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.anonup.net/nfl4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g477DZf.jpeg" group-title="NFL", Los Angeles Rams at New York Jets - 05:00 AM (23/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.anonup.net/nfl5/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aO1RrL8.jpeg" group-title="NFL", Philadelphia Eagles at Washington Commanders - 05:00 AM (23/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.anonup.net/nfl6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/npiw1j8.jpeg" group-title="NFL", Arizona Cardinals at Carolina Panthers - 05:00 AM (23/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.anonup.net/nfl7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/52xcUY6.jpeg" group-title="NFL", Minnesota Vikings at Seattle Seahawks - 08:05 AM (23/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.anonup.net/nfl8/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5t98xEr.jpeg" group-title="NFL", New England Patriots at Buffalo Bills - 08:25 AM (23/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.anonup.net/nfl9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oFydTxu.jpeg" group-title="NFL", Jacksonville Jaguars at Las Vegas Raiders - 08:25 AM (23/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.anonup.net/nfl10/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XcypS2l.jpeg" group-title="NFL", San Francisco 49ers at Miami Dolphins - 08:25 AM (23/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.anonup.net/nfl11/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BV7t3Ml.jpeg" group-title="NFL", Tampa Bay Buccaneers at Dallas Cowboys - 12:20 PM (23/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.anonup.net/snf/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H4rCPSK.jpeg" group-title="NFL", New Orleans Saints at Green Bay Packers - 12:15 PM (24/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.anonup.net/mnf/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kNipsMP.jpeg" group-title="Wrestling", WWE RAW - 12:00 PM (24/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.fscdn.fun/usanetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TW243DG.png" group-title="Wrestling", WWE NXT - 12:00 PM (25/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.fscdn.fun/thecw/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PpejPXY.jpeg" group-title="Wrestling", AEW Dynamite - 12:00 PM (26/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.fscdn.fun/tbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jCoGNxC.png" group-title="Wrestling", WWE Smackdown - 12:00 PM (28/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.fscdn.fun/usanetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kNipsMP.jpeg" group-title="Wrestling", WWE RAW - 12:00 PM (31/12/24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.fscdn.fun/usanetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TW243DG.png" group-title="Wrestling", WWE NXT - 12:00 PM (01/01/25)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.fscdn.fun/thecw/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PpejPXY.jpeg" group-title="Wrestling", AEW Dynamite - 12:00 PM (02/01/25)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.fscdn.fun/tbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jCoGNxC.png" group-title="Wrestling", WWE Smackdown - 12:00 PM (04/01/25)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.fscdn.fun/usanetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7cS8dt.jpeg" group-title="24/7 Streams", ESPN8 "The Ocho"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.anonup.net/espn8/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJ6395b.jpeg" group-title="24/7 Streams", ESPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.qwertyisaddictedtodxm.pw/espnus247/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4GuxRuF.png" group-title="24/7 Streams", (North) Korean Central Television
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mn2dI6S.jpeg" group-title="24/7 Streams", LaLiga TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.fscdn.fun/laligatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HgHdOxZ.jpeg" group-title="VIP", [VIP] Argyle TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/live/argyle-tv?vip=true
+https://fd604fa9a9cf89907c2bcc8bcff25c68.streamed.su/argyle/mpegts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HgHdOxZ.jpeg" group-title="24/7 Streams", Argyle TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.anonup.net/argyle/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SzF1kyy.png" group-title="24/7 Streams", Utah Hockey Club
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.anonup.net/utahhockeyclub/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mn2dI6S.jpeg" group-title="24/7 Streams", LaLiga Overflow
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+#EXTVLCOPT:http-referrer=https://ppv.land/
+https://fs.anonup.net/laligaextra1/index.m3u8
